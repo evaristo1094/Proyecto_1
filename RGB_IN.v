@@ -21,7 +21,7 @@
 module RGB_IN(input wire clk, clr, sw1, sw2, sw3, btn, output wire [2:0]RGB
     );//declaracion de variables de entrada y salida
 
-
+// probando github
 reg  delay1;       //Declaramos la conexion auxiliar tipo reg delay1
 reg  delay2;       //Declaramos la conexion auxiliar tipo reg delay2
 reg  delay3;       //Declaramos la conexion auxiliar tipo reg delay3
